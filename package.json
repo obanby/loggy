@@ -1,0 +1,28 @@
+{
+  "name": "@elbanby/loggy",
+  "version": "1.0.0",
+  "description": "Simple and fast JSON logger",
+  "scripts": {
+    "test": "mocha --recursive || true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elbanby/loggy.git"
+  },
+  "keywords": [
+    "loggy",
+    "logger",
+    "npm",
+    "package",
+    "elbanby"
+  ],
+  "author": "Omar Elbanby",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/Elbanby/loggy/issues"
+  },
+  "homepage": "https://github.com/Elbanby/loggy#readme",
+  "devDependencies": {
+    "mocha": "^6.2.0"
+  }
+}
