@@ -15,7 +15,7 @@ if (error) {
     process.exit(1);
 }
 
-// customizing your stdin
+// customizing your stdout
 Loggy.setOutStream((data) => { 
     // write to file or do as you please with it
 });
