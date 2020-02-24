@@ -1,6 +1,6 @@
 {
   "name": "@elbanby/loggy",
-  "version": "2.0.1",
+  "version": "0.6.0",
   "description": "Simple and fast JSON logger",
   "scripts": {
     "test": "mocha --recursive || true"
