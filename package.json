@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Elbanby/loggy#readme",
   "devDependencies": {
-    "mocha": "^6.2.0"
+    "mocha": "^10.2.0"
   }
 }
